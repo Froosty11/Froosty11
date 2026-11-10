@@ -10,15 +10,15 @@
 
 ### 👋 Hej
 
-I've been modding Minecraft since I was 14. I started with [ProjectKorra](https://projectkorra.com), ran a server on it for two years, and never really stopped building things people can play. These days I'm tech lead at [Winsty](https://winsty.app) and make small games and server-side mods on the side.
+I've been modding Minecraft since I was 14. I started with [ProjectKorra](https://projectkorra.com), ran a server on it for two years, and never really stopped building things people can play. Along the way I've consulted for some of the largest Minecraft YouTubers, building custom solutions for their videos. These days I'm tech lead at [Winsty](https://winsty.app) and make small games and server-side mods on the side.
 
 ### 🧱 Building
 
 | | |
 |---|---|
 | **[Dokubolaget](https://github.com/Froosty11/dokubolaget)** | A daily 3×3 grid game built on the Systembolaget product catalog. |
-| **Minecraft mods** | Server-side Fabric mods for a community server, plus work on [Jukoz/middle-earth](https://github.com/Jukoz/middle-earth). |
-| **[Spel2Game](https://github.com/Froosty11/Spel2Game)** | A game project in C#. |
+| **Minecraft mods** | Server-side Fabric mods for a community server. |
+| **Creator consulting** | Custom-built Minecraft solutions for video productions by some of the biggest creators on YouTube. |
 | **[ai-inference-energy-model](https://github.com/Tareg95/ai-inference-energy-model)** | Energy use and carbon impact of AI inference workloads, for a KTH degree thesis. |
 
 ### 🛠️ Stack
@@ -26,7 +26,7 @@ I've been modding Minecraft since I was 14. I started with [ProjectKorra](https:
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Fabric-DBD0B4?style=flat-square&logoColor=black" alt="Fabric" />
 </p>
