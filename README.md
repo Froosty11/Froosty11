@@ -17,7 +17,7 @@ I've been modding Minecraft since I was 14. I started with [ProjectKorra](https:
 | | |
 |---|---|
 | **[Dokubolaget](https://github.com/Froosty11/dokubolaget)** | A daily 3×3 grid game built on the Systembolaget product catalog. |
-| **Minecraft mods** | Server-side Fabric mods for a community server. |
+| **[METAmods](https://github.com/Froosty11/metamods)** | Server-side Fabric mods for the METAcraft community server. |
 | **Creator consulting** | Custom-built Minecraft solutions for video productions by some of the biggest creators on YouTube. |
 | **[ai-inference-energy-model](https://github.com/Tareg95/ai-inference-energy-model)** | Energy use and carbon impact of AI inference workloads, for a KTH degree thesis. |
 
