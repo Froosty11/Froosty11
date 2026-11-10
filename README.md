@@ -10,7 +10,7 @@
 
 ### 👋 Hej
 
-I've been modding Minecraft since I was 14. I started with [ProjectKorra](https://projectkorra.com), ran a server on it for two years, and never really stopped building things people can play. Along the way I've consulted for some of the largest Minecraft YouTubers, building custom solutions for their videos. These days I'm tech lead at [Winsty](https://winsty.app) and make small games and server-side mods on the side.
+I've been modding Minecraft since I was 14. I started with [ProjectKorra](https://projectkorra.com), ran a server on it for two years, and never really stopped building things people can play. Along the way I've done consulting on custom Minecraft solutions, on contracts worth thousands of dollars. These days I'm tech lead at [Winsty](https://winsty.app) and make small games and server-side mods on the side.
 
 ### 🧱 Building
 
